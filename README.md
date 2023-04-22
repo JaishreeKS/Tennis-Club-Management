@@ -12,4 +12,5 @@ PLATINUM - 5% Discount
 #Discount Calculation formula
 
 discount_amount=30*(1000*hours_spent)/100;  //similarly --> 5, 20 for silver and platinum
+
 discount_price=((1000*hours_spent)-discount_amount);
